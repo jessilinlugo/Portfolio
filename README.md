@@ -9,6 +9,6 @@ I've been interested in coding and website design since I was 14 on MySpace cust
 
 As much as I want to say I started with a wire frame, I just dove right in and got about as far as setting up my navigation bar and customizing the font family and color before I remembered I had no clue how I wanted the rest of my content to be laid out. So I booted up Illustrator and whipped up a quick mock up of my final design. 
 
-![wireframe 1](assets/website-wireframe-01.jpg)
-![wireframe 2](assets/website-wireframe-02.jpg)
-![wireframe 3](assets/website-wireframe-03.jpg)
+![wireframe 1](./assets/website-wireframe-01.jpg)
+![wireframe 2](./assets/website-wireframe-02.jpg)
+![wireframe 3](./assets/website-wireframe-03.jpg)
