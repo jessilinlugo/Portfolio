@@ -1,0 +1,41 @@
+.title {
+    font-family: 'Taviraj', serif;
+    font-weight: 900;
+}
+
+.heading {
+    font-family: 'Taviraj', serif;
+    font-weight: 700;
+    text-align: center;
+}
+.about {
+    font-family: 'Taviraj', serif;
+    font-weight: 500
+}
+
+.artistabout {
+    font-family: 'Taviraj', serif; 
+    font-style: italic;
+    font-weight: 700;
+    text-align: center;
+    font-size: 225%;
+}
+
+.content {
+    font-family: 'Taviraj', serif;
+    font-weight: 600;
+}
+
+.footer {
+    font-family: 'Taviraj', serif;
+    font-weight: 700;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+
+}
+
+.carousel {
+    margin: auto;
+  }
