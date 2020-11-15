@@ -27,6 +27,10 @@ Luckily, they were both quick fixes. Images require the 'col-#' class to get my 
 
 Screenshots of my deployed website can be seen below. I had a lot of fun creating this, and I can't wait to see how much more I'll grow in skill and finesse as time goes on!
 
+-----------
+
+## Final Site Screenshots
+
 <img src="/screenshots/home-final.png" alt="completed home page screenshot"/>
 <img src="/screenshots/portfolio-final.png" alt="completed portfolio page screenshot"/>
 <img src="/screenshots/contact-final.png" alt="completed contact page screenshot"/>
