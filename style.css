@@ -1,3 +1,4 @@
+/* most styles in this sheet are adjusting fonts */
 .title {
     font-family: 'Taviraj', serif;
     font-weight: 900;
@@ -21,6 +22,7 @@
     font-size: 225%;
 }
 
+/* this sets the font for all paragraphs */
 .content {
     font-family: 'Taviraj', serif;
     font-weight: 600;
@@ -36,6 +38,7 @@
 
 }
 
+/* adjusting the spacing for the carousel */
 .carousel {
     margin: auto;
   }
