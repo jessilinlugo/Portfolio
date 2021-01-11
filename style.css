@@ -1,4 +1,4 @@
-/* setting the background color for the entire project*/
+/* setting the background style for the entire project*/
 body {
     background-image: linear-gradient(rgb(255, 223, 227), white);
 }
@@ -38,8 +38,10 @@ body {
     font-weight: 600;
     text-align: center;
     font-size: 100%;
+    justify-content: center;
 
 }
+
 .links {
     font-family: 'Taviraj', serif; 
     font-weight: 600;
@@ -66,5 +68,4 @@ body {
 .carousel {
     margin: auto;
   }
-
 
