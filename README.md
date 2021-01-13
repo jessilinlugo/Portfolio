@@ -1,5 +1,27 @@
 # Portfolio
-## *My Personal Graphic Design Portfolio*
+## *My Personal Portfolio Version 2*
+**Technologies used: HTML, CSS, Bootstrap, and Javascript for the assignments that were added in**
+------------
+
+It's only been a few months since I started learning coding languages in depth, but the simple aesthetic improvements I was able to make in my updated version of my portfolio have made a world of difference. 
+
+Starting on the home page, I added some padding to my footer so although there is no content to fill the space, the footer text is no longer directly beneath my written bio. Additionally, this added space helps bring the background image gradient to the full screen, rather than repeating indefinitely. 
+<img src="/screenshots/portfolio_2021_home.png" alt="2021 updated home page"/>
+
+Secondly, my completed works page. This page displays the gradient background beautifully, and shows the subtle transition I was going for on a long page. You don't realize it's pink until you either scroll away, or scale the entire window so you can see everything at once. Adding in my new projects was a simple task. I had already established a layout that worked for me, so I just adjusted it for the screenshots of the deployed applications. 
+<img src="/screenshots/portfolio_2021_works_1.png" alt="2021 updated portfolio page 1"/>
+<img src="/screenshots/portfolio_2021_works_2.png" alt="2021 updated portfolio page 2"/>
+
+Finally, my contact page. Truthfully, this was the page that gave me the most problems. I tried to implement my resume as a PDF on the page itself, but it wouldn't show up completely, so I ended up just outlining all the elements in the Illustrator file, saving it as a Scalable Vector Graphic, which retains all of the original quality of the PDF, but allows me to adjust the sizing and placement like that of an image, and then placing that on my page. 
+
+<img src="/screenshots/portfolio_2021_contact" alt="2021 updated contact page"/>
+
+
+I figured the links being separated by hearts instead of a vertical bar fits my brand and aesthetic, hence why they were used. Like I've mentioned before, I tend to really shine on the assignments that are more UI based. Updating my portfolio was easy because front end is what excites me, and truthfully, the idea of completing the front end of a website from scratch sounds better to me than debugging established Javascript. 
+
+------------
+
+## *My Personal Graphic Design Portfolio Version 1*
 
 ------------
 
@@ -29,8 +51,10 @@ Screenshots of my deployed website can be seen below. I had a lot of fun creatin
 
 -----------
 
-## Final Site Screenshots
+## First Version Screenshots
 
 <img src="/screenshots/home-final.png" alt="completed home page screenshot"/>
 <img src="/screenshots/portfolio-final.png" alt="completed portfolio page screenshot"/>
 <img src="/screenshots/contact-final.png" alt="completed contact page screenshot"/>
+
+
