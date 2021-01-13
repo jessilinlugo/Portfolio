@@ -1,14 +1,17 @@
 # Portfolio
 ## *My Personal Portfolio Version 2*
 **Technologies used: HTML, CSS, Bootstrap, and Javascript for the assignments that were added in**
+Link to my Portfolio site : https://jessilinlugo.github.io/Portfolio/
 ------------
 
 It's only been a few months since I started learning coding languages in depth, but the simple aesthetic improvements I was able to make in my updated version of my portfolio have made a world of difference. 
 
 Starting on the home page, I added some padding to my footer so although there is no content to fill the space, the footer text is no longer directly beneath my written bio. Additionally, this added space helps bring the background image gradient to the full screen, rather than repeating indefinitely. 
+
 <img src="/screenshots/portfolio_2021_home.png" alt="2021 updated home page"/>
 
 Secondly, my completed works page. This page displays the gradient background beautifully, and shows the subtle transition I was going for on a long page. You don't realize it's pink until you either scroll away, or scale the entire window so you can see everything at once. Adding in my new projects was a simple task. I had already established a layout that worked for me, so I just adjusted it for the screenshots of the deployed applications. 
+
 <img src="/screenshots/portfolio_2021_works_1.png" alt="2021 updated portfolio page 1"/>
 <img src="/screenshots/portfolio_2021_works_2.png" alt="2021 updated portfolio page 2"/>
 
