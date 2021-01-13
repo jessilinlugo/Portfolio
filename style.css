@@ -55,6 +55,12 @@ body {
     font-weight: 600;
 }
 
+.contactInfo {
+    font-family: 'Taviraj', serif;
+    font-weight: 600;
+    text-align: center;
+}
+
 .footer {
     font-family: 'Taviraj', serif;
     font-weight: 700;
