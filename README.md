@@ -1,7 +1,10 @@
 # Portfolio
 ## *My Personal Portfolio Version 2*
 **Technologies used: HTML, CSS, Bootstrap, and Javascript for the assignments that were added in**
+
+------------
 Link to my Portfolio site : https://jessilinlugo.github.io/Portfolio/
+
 ------------
 
 It's only been a few months since I started learning coding languages in depth, but the simple aesthetic improvements I was able to make in my updated version of my portfolio have made a world of difference. 
