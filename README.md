@@ -20,8 +20,7 @@ Secondly, my completed works page. This page displays the gradient background be
 
 Finally, my contact page. Truthfully, this was the page that gave me the most problems. I tried to implement my resume as a PDF on the page itself, but it wouldn't show up completely, so I ended up just outlining all the elements in the Illustrator file, saving it as a Scalable Vector Graphic, which retains all of the original quality of the PDF, but allows me to adjust the sizing and placement like that of an image, and then placing that on my page. 
 
-<img src="/screenshots/portfolio_2021_contact" alt="2021 updated contact page"/>
-
+<img src="/screenshots/portfolio_2021_contact.png" alt="2021 updated contact page"/>
 
 I figured the links being separated by hearts instead of a vertical bar fits my brand and aesthetic, hence why they were used. Like I've mentioned before, I tend to really shine on the assignments that are more UI based. Updating my portfolio was easy because front end is what excites me, and truthfully, the idea of completing the front end of a website from scratch sounds better to me than debugging established Javascript. 
 
